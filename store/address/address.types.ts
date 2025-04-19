@@ -1,0 +1,7 @@
+interface ADDRESS_ACTION_CHECK {
+    ADDRESS_TYPE : string
+}
+export const ADDRESS_ACTION_TYPES: ADDRESS_ACTION_CHECK = {
+    ADDRESS_TYPE: "ADDRESS_TYPE",
+ };
+  

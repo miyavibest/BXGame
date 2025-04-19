@@ -4,6 +4,7 @@
 ## 🙋🏽 About.
 Designed to be the top gaming platform on the Polygon blockchain, it's a decentralized casino. By using Polygon Blockchain Technology, it offers innovative casino games. The platform has provably fair games and enables easy deposits and withdrawals via the Polygon Blockchain, ensuring a smooth gaming experience.
 
+
  ## 💫 Problem Description.
 Blockchain, an innovative ecosystem, has attracted significant attention and witnessed remarkable developments over the years. Nevertheless, this technology remains under - utilized, as less than 3% of the global population currently uses it.Blockchain, an innovative ecosystem, has attracted significant
 The Polygon ecosystem, in particular, must expand its reach into people's daily lives to attract a larger share of the world's population.
