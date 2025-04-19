@@ -1,4 +1,4 @@
-## 🎲🪙 
+## 
  This is a gaming platform built on the Polygon blockchain.
 
 ## 🙋🏽 About.
