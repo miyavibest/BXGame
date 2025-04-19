@@ -1,12 +1,8 @@
 ## 🎲🪙 
  This is a gaming platform built on the Polygon blockchain.
 
-![image](https://i.postimg.cc/bwbQ1VJv/Landing-4-1.png)
-
 ## 🙋🏽 About.
 Designed to be the top gaming platform on the Polygon blockchain, it's a decentralized casino. By using Polygon Blockchain Technology, it offers innovative casino games. The platform has provably fair games and enables easy deposits and withdrawals via the Polygon Blockchain, ensuring a smooth gaming experience.
-
-https://user-images.githubusercontent.com/68618796/205475080-061bb1e6-7718-4c80-bc99-3b66af592f6e.mov
 
  ## 💫 Problem Description.
 Blockchain, an innovative ecosystem, has attracted significant attention and witnessed remarkable developments over the years. Nevertheless, this technology remains under - utilized, as less than 3% of the global population currently uses it.Blockchain, an innovative ecosystem, has attracted significant
